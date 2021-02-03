@@ -32,7 +32,7 @@ export default new Vuex.Store({
           top: 0,
         },
         red:{
-          bottom: 10,
+          bottom: 100,
           top: 80,
         },
       },

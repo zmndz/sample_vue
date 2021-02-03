@@ -75,7 +75,8 @@ export default {
   .app {
     background: rgba(233, 237, 244, 0.65);
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
+    height: 100%;
     display: flex;
   }
 
